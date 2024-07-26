@@ -5,9 +5,9 @@ I have been contributing to the Open Source community for the past 20 years prim
 
 ### Publications
 
-  * <img src="https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653" width=10/> [Crafting Test-Driven Software with Python](https://www.pythontdd.com/)
-  * <img src="https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653" width=10/> [Modern Python Standard Library Cookbook](https://www.pythonstandardlibrarybook.com/)
-  * <img src="https://github.com/user-attachments/assets/989a387d-8f38-43f8-ba4e-03550151ff1f" width=10/> [Monthly Python Data Engineering Newsletter](https://alessandromolina.substack.com/) 
+  * <img src="https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653" width=15/> [Crafting Test-Driven Software with Python](https://www.pythontdd.com/)
+  * <img src="https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653" width=15/> [Modern Python Standard Library Cookbook](https://www.pythonstandardlibrarybook.com/)
+  * <img src="https://github.com/user-attachments/assets/989a387d-8f38-43f8-ba4e-03550151ff1f" width=15/> [Monthly Python Data Engineering Newsletter](https://alessandromolina.substack.com/) 
 
 ### Data Engineering OpenSource Projects
 
