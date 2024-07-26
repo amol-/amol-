@@ -19,7 +19,7 @@ In the recent years I mostly contribute to Data Engineering projects like:
 
 ### Web Frameworks OpenSource Projects
 
-Previously I have been contributed prinmarily in the context of web frameworks where I have been the maintainer and co-author of:
+Previously I have been contributing primarily in the context of web frameworks where I have been the maintainer and co-author of:
 
 * [TurboGears2](https://github.com/TurboGears/tg2) Web Framework
 * [DEPOT](https://github.com/amol-/depot) attachments framework for web apps
