@@ -1,16 +1,18 @@
-## Hi there 👋
+## Alessandro Molina
 
-<!--
-**amol-/amol-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the author of [Crafting Test-Driven Software with Python](https://www.pythontdd.com/) and [Modern Python Standard Library Cookbook](https://www.pythonstandardlibrarybook.com/)
+and the curator of the [Monthly Python Data Engineering](https://alessandromolina.substack.com/) newsletter. 
+I have been working in the Open Source community for the past 20 years primarily in the Python ecosystem.
 
-Here are some ideas to get you started:
+In the recent years I mostly contribute to Data Engineering projects like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Apache Arrow
+* Substrait-Python
+
+Previously in the context of web frameworks where I have been the maintainer and co-author of
+
+* TurboGears2 web framework
+* DEPOT attachments framework
+* DukPy Javascript interpreter for Python
+* Beaker Caching Framework
+* Kajiki Templating Engine
