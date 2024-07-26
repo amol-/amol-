@@ -1,6 +1,6 @@
 ## Alessandro Molina
 
-I'm a software engineer and engineering manager living in ![image](https://github.com/user-attachments/assets/2182d6c9-1d29-4c44-976c-07474ac93320 | width=20)**Italy**,
+I'm a software engineer and engineering manager living in <img src="https://github.com/user-attachments/assets/2182d6c9-1d29-4c44-976c-07474ac93320" width=20/>**Italy**,
 I have been contributing to the Open Source community for the past 20 years primarily in the ![image](https://github.com/user-attachments/assets/61e2dd2a-a546-4a91-ae5f-cf0ed34788fe | width=20)Python ecosystem.
 
 ### Publications
