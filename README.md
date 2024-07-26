@@ -1,13 +1,13 @@
 ## Alessandro Molina
 
-I'm a software engineer and engineering manager living in **Italy**,
-I have been contributing to the Open Source community for the past 20 years primarily in the Python ecosystem.
+I'm a software engineer and engineering manager living in ![image](https://github.com/user-attachments/assets/2182d6c9-1d29-4c44-976c-07474ac93320)**Italy**,
+I have been contributing to the Open Source community for the past 20 years primarily in the ![image](https://github.com/user-attachments/assets/61e2dd2a-a546-4a91-ae5f-cf0ed34788fe)Python ecosystem.
 
 ### Publications
 
-  * [Crafting Test-Driven Software with Python](https://www.pythontdd.com/)
-  * [Modern Python Standard Library Cookbook](https://www.pythonstandardlibrarybook.com/)
-  * [Monthly Python Data Engineering Newsletter](https://alessandromolina.substack.com/) 
+  * ![image](https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653) [Crafting Test-Driven Software with Python](https://www.pythontdd.com/)
+  * ![image](https://github.com/user-attachments/assets/7100a78b-791a-4dbd-aeb4-3c4cfb687653) [Modern Python Standard Library Cookbook](https://www.pythonstandardlibrarybook.com/)
+  * ![image](https://github.com/user-attachments/assets/989a387d-8f38-43f8-ba4e-03550151ff1f) [Monthly Python Data Engineering Newsletter](https://alessandromolina.substack.com/) 
 
 ### Data Engineering OpenSource Projects
 
